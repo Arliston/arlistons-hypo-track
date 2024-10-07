@@ -1,7 +1,7 @@
 body {
-	background: #00FFFF;
-	background: linear-gradient(#00FFFF, #FF69B4);
-	font-family: "Comic Sans MS", "Arial", sans-serif;
+	background: #00DAFF;
+	background: linear-gradient(#00DAFF, #9900FF);
+	font-family: "Nunito", "Nunito", sans-serif;
 	color: #000080;
 }
 
@@ -57,7 +57,7 @@ ul li {
 	position: absolute;
 	top: 10px;
 	left: 10px;
-	background-color: #FF69B4;
+	background-color: #02FF9B;
 	border: .15rem solid #000080;
 	padding: 1rem;
 	border-radius: .2rem .8rem;
